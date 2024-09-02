@@ -1,7 +1,7 @@
 ---
 name: Loja de IFrs
 description: A loja IFCARS é sua melhor modelo de loja para compras de carros luxuosos
-preview: https://raw.githubusercontent.com/2daniell/ifcars/main/preview.png
+preview: https://raw.githubusercontent.com/2daniell/ifcars/main/preview.png](https://github.com/2daniell/ifpb/blob/master/LM/Project/Step-1/preview.png
 page: https://2daniell.github.io/ifcars/
 repository: https://github.com/2daniell/ifcars
 category:
