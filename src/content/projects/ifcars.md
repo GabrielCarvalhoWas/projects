@@ -1,8 +1,8 @@
 ---
-name: Loja de IFCARS
+name: IFCARRS
 description: A loja IFCARS é sua melhor modelo de loja para compras de carros luxuosos
 addresses:
-  preview: https://raw.githubusercontent.com/2daniell/ifcars/main/preview.png
+  preview: (https://github.com/GabrielCarvalhoWas/ifpbb/blob/master/LM/Project/Step-1/preview.png)
   homepage: https://2daniell.github.io/ifcars/
   repository: https://github.com/2daniell/ifcars
 category:
