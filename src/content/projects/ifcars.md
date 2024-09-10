@@ -1,5 +1,5 @@
 ---
-name: Loja de IFCARS
+name: IFCARS
 description: A loja IFCARS é sua melhor modelo de loja para compras de carros luxuosos
 addresses:
   preview: https://raw.githubusercontent.com/2daniell/ifcars/main/preview.png
